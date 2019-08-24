@@ -1,8 +1,6 @@
 # [Brijesh Singh](https://iitg.ac.in/stud/brijesh.singh)
 
-I am a Ph.D. student at Department of Computer Science and Engineering, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/cse/).
-
-I am working in area of Computer Vision and Image Processing under the joint supervision of [Dr. Arijit Sur](https://www.iitg.ac.in/arijit/) and [Dr. Pinaki Mitra](https://www.iitg.ac.in/cse/internet-pages/pinaki).
+I am a Ph.D. student at Department of Computer Science and Engineering, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/cse/). I am working in area of Computer Vision and Image Processing under the joint supervision of [Dr. Arijit Sur](https://www.iitg.ac.in/arijit/) and [Dr. Pinaki Mitra](https://www.iitg.ac.in/cse/internet-pages/pinaki).
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
