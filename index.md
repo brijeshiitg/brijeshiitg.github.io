@@ -38,5 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Contact
 
-- [Webpage:](https://iitg.ac.in/stud/brijesh.singh) 
+- Webpage: [http://iitg.ac.in/stud/brijesh.singh](http://iitg.ac.in/stud/brijesh.singh) 
 - Email: brijesh.singh[at]iitg.ac.in
