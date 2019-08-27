@@ -1,4 +1,4 @@
-# [Brijesh Singh](https://iitg.ac.in/stud/brijesh.singh)
+# Brijesh Singh
 
 I am a Ph.D. student at Department of Computer Science and Engineering, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/cse/). Presently, I am working in area of Computer Vision and Image Processing under the joint supervision of [Dr. Arijit Sur](https://www.iitg.ac.in/arijit/) and [Dr. Pinaki Mitra](https://www.iitg.ac.in/cse/internet-pages/pinaki).
 ## Research Interest
@@ -36,6 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brijeshiitg/brijeshiitg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Webpage:](https://iitg.ac.in/stud/brijesh.singh) 
+- Email: brijesh.singh[at]iitg.ac.in
