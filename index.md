@@ -15,7 +15,7 @@ My research interest includes- Computer vision, Image processing. Currentlly, I 
 - Tensorflow
 - Pyotrch
 
-## Implementation of Steganalysis models
+## Implementations of Steganalysis models
 
 - Deep Residual Network for Steganalysis of Digital Images (SRNet) [Pytorch implementation](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)
 
