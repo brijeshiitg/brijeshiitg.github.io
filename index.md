@@ -31,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Matlab
 - Tensorflow
 - Pyotrch
+## Implementation of the state-of-the-art models
+- Deep Residual Network for Steganalysis of Digital Images (SRNet) [link](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)
 
 ## Publication
 
