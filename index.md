@@ -26,5 +26,5 @@ My research interest includes- Computer vision, Image processing. Currentlly, I 
 ### Contact
 
 - Email: brijesh.singh[at]iitg.ac.in
-- [Linkedin:](www.linkedin.com/in/brijesh-singh-78a73579)
+- Linkedin:[www.linkedin.com/in/brijesh-singh-78a73579](www.linkedin.com/in/brijesh-singh-78a73579)
 - Webpage: [http://iitg.ac.in/stud/brijesh.singh](http://iitg.ac.in/stud/brijesh.singh) 
