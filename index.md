@@ -9,11 +9,10 @@ My research interest includes- Computer vision, Image processing. Currentlly, I 
 
 
 ## Coding Skills
-- C++ 
-- Python 
-- Matlab
+
 - Tensorflow
 - Pyotrch
+- Matlab
 
 ## Implementations of Steganalysis models
 
