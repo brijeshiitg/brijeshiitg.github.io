@@ -4,7 +4,8 @@ I am a Ph.D. student at Department of Computer Science and Engineering, [Indian 
 
 ### Research Interest
 
-My research interest includes- Computer vision, Image processing. Currentlly, I am working on Steganography and Steganalysis using Deep Learning.
+My research interests includes- Computer vision, Image processing. 
+Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 
 
