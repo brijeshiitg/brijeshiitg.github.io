@@ -16,8 +16,8 @@ My research interest includes- Computer vision, Image processing. Currentlly, I 
 
 ### My Implementations of Existing Steganalysis models
 
-- *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[Pytorch code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
-- ***ReST-Net**: Diverse Activation Modules and Parallel Subnets-Based CNN for Spatial Image Steganalysis* [[Pytorch code]()]
+- *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
+- ***ReST-Net**: Diverse Activation Modules and Parallel Subnets-Based CNN for Spatial Image Steganalysis* [[code]()]
 
 ### Publication
 
