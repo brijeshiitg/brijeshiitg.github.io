@@ -21,7 +21,7 @@ My research interest includes- Computer vision, Image processing. Currentlly, I 
 
 ### Publication
 
-- *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019), Lecture Notes in Computer Science (LNCS) [~~[Pytorch code]()~~]
+- *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019), Lecture Notes in Computer Science (LNCS) [~~[code]()~~]
 
 - *Steganalysis for Clustering Modification Direction Steganography*, Ritvik Rawat, **Brijesh Singh**, Arijit Sur, and Pinaki Mitra. In Multimedia Tools and Applications (2019),- Springer
 
