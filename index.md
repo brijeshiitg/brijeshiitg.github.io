@@ -21,7 +21,7 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 - *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
 - ***ReST-Net**: Diverse Activation Modules and Parallel Subnets-Based CNN for Spatial Image Steganalysis* [[code]()]
 
-### Publication
+### Publications
 
 - *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [~~[code]()~~]
 
