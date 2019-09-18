@@ -17,13 +17,15 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 ### My Implementations of Existing Steganalysis models
 
-- *Deep Learning for Steganalysis via Convolutional Neural Networks* (**GNCNN**) [[code](https://github.com/brijeshiitg/GNCNN-Deep_learning_for_steganalysis_via_convolutional_neural_networks)]
+- *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
 
 - *Deep Learning Hierarchical Representations for Image Steganalysis* (**YeNet**) [[code](https://github.com/brijeshiitg/Pytorch-Implementation-of-YeNet-Deep-Learning-Hierarchical-Representations-for-Image-Steganalysis-)]
 
-- *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
-
 - ***ReST-Net**: Diverse Activation Modules and Parallel Subnets-Based CNN for Spatial Image Steganalysis* [[code]()]
+
+- *Structural Design of Convolutional Neural Networksfor Steganalysis* (**XuNet**) [[code](https://github.com/brijeshiitg/XuNet-Structural-Design-of-Convolutional-Neural-Networksfor-Steganalysis)]
+
+- *Deep Learning for Steganalysis via Convolutional Neural Networks* (**GNCNN**) [[code](https://github.com/brijeshiitg/GNCNN-Deep_learning_for_steganalysis_via_convolutional_neural_networks)]
 
 ### Publications
 
