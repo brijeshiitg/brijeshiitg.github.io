@@ -39,4 +39,5 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 - LinkedIn: [www.linkedin.com/in/brijesh-singh](http://www.linkedin.com/in/brijesh-singh-78a73579/)
 - Webpage: [http://iitg.ac.in/stud/brijesh.singh](http://iitg.ac.in/stud/brijesh.singh) 
 
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=5ku76e2bosp&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script>
