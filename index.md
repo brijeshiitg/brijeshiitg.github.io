@@ -31,7 +31,7 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 - *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [~~[code]()~~]
 
-- *Steganalysis for Clustering Modification Direction Steganography*, Ritvik Rawat, **Brijesh Singh**, Arijit Sur, and Pinaki Mitra. In Multimedia Tools and Applications (2019) - Springer DOI: 10.1007/s11042-019-08263-z
+- *Steganalysis for Clustering Modification Direction Steganography*, Ritvik Rawat, **Brijesh Singh**, Arijit Sur, and Pinaki Mitra. In Multimedia Tools and Applications (2019) - Springer DOI: [[Link](https://doi.org/10.1007/s11042-019-08263-z)]
 
 ## Tutorial
 - CS-574 CVML Tutorial - *An introduction to steganography and steganalysis* [[Slides](https://github.com/brijeshiitg/CS-574-Tutorial/blob/master/CS_574_07112019.pdf)]
