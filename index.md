@@ -33,6 +33,9 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 - *Steganalysis for Clustering Modification Direction Steganography*, Ritvik Rawat, **Brijesh Singh**, Arijit Sur, and Pinaki Mitra. In Multimedia Tools and Applications (2019) - Springer DOI: 10.1007/s11042-019-08263-z
 
+## Tutorial
+- CS-574 CVML Tutorial - *An introduction to steganography and steganalysis* [[Slides](https://github.com/brijeshiitg/CS-574-Tutorial/blob/master/CS_574_07112019.pdf)]
+
 ### Contact
 
 - Email: brijesh.singh[at]iitg.ac.in
