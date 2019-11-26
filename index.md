@@ -16,6 +16,7 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 - Matlab
 
 ### My Implementations of Existing Steganalysis models
+- *A New Steganalysis Method using Densely Connected Convnets* [[code](https://github.com/brijeshiitg/A-New-Steganalysis-Method-using-Densely-Connected-Convnets)]
 
 - *Deep Residual Network for Steganalysis of Digital Images* (**SRNet**) [[code](https://github.com/brijeshiitg/Steganalysis-Models-Implementation/tree/master)]
 
@@ -29,7 +30,7 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 ### Publications
 
-- *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_31?fbclid=IwAR0mKkkiJB4-GFr6RUqFKg3yvALvdlAoIdAeOqob3IezRew0t3zPs9GljM4)][[code](https://github.com/brijeshiitg/A-New-Steganalysis-Method-using-Densely-Connected-Convnets)]
+- *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_31?fbclid=IwAR0mKkkiJB4-GFr6RUqFKg3yvALvdlAoIdAeOqob3IezRew0t3zPs9GljM4)]
 
 - *Steganalysis for Clustering Modification Direction Steganography*, Ritvik Rawat, **Brijesh Singh**, Arijit Sur, and Pinaki Mitra. In Multimedia Tools and Applications (2019) - Springer DOI: [[Link](https://doi.org/10.1007/s11042-019-08263-z)]
 
