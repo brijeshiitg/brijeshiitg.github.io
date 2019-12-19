@@ -12,7 +12,7 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 ### Coding Skills
 
 - [Tensorflow](https://www.tensorflow.org)
-- [Pyotrch](https://pytorch.org/)
+- [Pytorch](https://pytorch.org/)
 - Matlab
 
 ### My Implementations of Existing Steganalysis models
