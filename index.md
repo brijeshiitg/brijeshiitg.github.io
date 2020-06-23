@@ -28,6 +28,9 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 - *Deep Learning for Steganalysis via Convolutional Neural Networks* (**GNCNN**) [[code](https://github.com/brijeshiitg/GNCNN-Deep_learning_for_steganalysis_via_convolutional_neural_networks)]
 
+- *Hiding Images in Plain Sight: Deep Steganography* [[code](https://github.com/brijeshiitg/Deep_Steganography)]
+
+
 ### Publications
 
 - *A New Steganalysis Method using Densely Connected Convnets*, **Brijesh Singh**, Prasen Kumar Sharma, Rupal Saxena, Arijit Sur, and Pinaki Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_31?fbclid=IwAR0mKkkiJB4-GFr6RUqFKg3yvALvdlAoIdAeOqob3IezRew0t3zPs9GljM4)]
