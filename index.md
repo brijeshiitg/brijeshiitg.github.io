@@ -33,11 +33,11 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 ### Publications
 
-- *A New Steganalysis Method using Densely Connected Convnets*, **Singh, B**, P K Sharma, R Saxena, A Sur, and P Mitra. In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_31?fbclid=IwAR0mKkkiJB4-GFr6RUqFKg3yvALvdlAoIdAeOqob3IezRew0t3zPs9GljM4)]
+- **Singh, B**, P K Sharma, R Saxena, A Sur, and P Mitra. *"A New Steganalysis Method using Densely Connected Convnets."* In 8th International Conference on Pattern Recognition and Machine Intelligence (2019) - Lecture Notes in Computer Science (LNCS) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_31?fbclid=IwAR0mKkkiJB4-GFr6RUqFKg3yvALvdlAoIdAeOqob3IezRew0t3zPs9GljM4)]
 
-- *Steganalysis for Clustering Modification Direction Steganography*, Rawat, R, **B Singh**, A Sur, and P Mitra. In Multimedia Tools and Applications (2019) - Springer DOI: [[Link](https://doi.org/10.1007/s11042-019-08263-z)]
+- Rawat, R, **B Singh**, A Sur, and P Mitra. *"Steganalysis for Clustering Modification Direction Steganography."* In Multimedia Tools and Applications (2019) - Springer DOI: [[Link](https://doi.org/10.1007/s11042-019-08263-z)]
 
-- *Steganalysis using Learned Denoising Kernels*, **Singh, B**, A Sur, and P Mitra. In Multimedia Tools and Applications (2020) (Accepted)
+- **Singh, B**, M Chhajed, A Sur, and P Mitra. *"Steganalysis using Learned Denoising Kernels."*, In Multimedia Tools and Applications (2020) (Accepted)
 
 ## Tutorial
 - CS-574 CVML Tutorial - *An introduction to steganography and steganalysis* [[Slides](https://github.com/brijeshiitg/CS-574-Tutorial/blob/master/CS_574_07112019.pdf)]
