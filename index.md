@@ -39,15 +39,14 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 - **Singh, B**, M Chhajed, A Sur, and P Mitra. *"Steganalysis using Learned Denoising Kernels."*, In Multimedia Tools and Applications (2020) - Springer DOI: [[Link](https://doi.org/10.1007/s11042-020-09960-w)]
 
-- **Singh, B**, A Sur, P Mitra. *"Steganalysis in Digital Images using Fractal Network."*, In IEEE Transactions on Computational Social Systems. (2021) (Accepted)
-
+- **Singh, B**, A Sur, P Mitra. *"Steganalysis of Digital Images Using Deep Fractal Network."*, In IEEE Transactions on Computational Social Systems. (2021) -
+[[Link](https://doi.org/10.1109/TCSS.2021.3052520)]
 ## Tutorial
 - CS-574 CVML Tutorial - *An introduction to steganography and steganalysis* [[Slides](https://github.com/brijeshiitg/CS-574-Tutorial/blob/master/CS_574_07112019.pdf)]
 
 ### Contact
 
 - Email: brijesh.singh[at]iitg.ac.in
-- LinkedIn: [www.linkedin.com/in/brijesh-singh](http://www.linkedin.com/in/brijesh-singh-78a73579/)
 - [ResearchGate](https://www.researchgate.net/profile/Brijesh_Singh32)
 
 
