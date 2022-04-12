@@ -41,6 +41,8 @@ Currently, I am working on Steganography and Steganalysis using Deep Learning.
 
 - **Singh, B**, A Sur, P Mitra. *"Steganalysis of Digital Images Using Deep Fractal Network."*, In IEEE Transactions on Computational Social Systems. (2021) -
 [[Link](https://doi.org/10.1109/TCSS.2021.3052520)]
+
+- **Singh, B**, P K Sharma, S A Huddedar, A Sur, and P Mitra. *"StegGAN: Hiding Image within Image using Conditional Generative Adversarial Networks."*, In Multimedia Tools and Applications (2022)
 ## Tutorial
 - CS-574 CVML Tutorial - *An introduction to steganography and steganalysis* [[Slides](https://github.com/brijeshiitg/CS-574-Tutorial/blob/master/CS_574_07112019.pdf)]
 
